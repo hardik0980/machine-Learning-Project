@@ -1,5 +1,3 @@
-# machine-Learning-Project
-
 # Wine Quality Prediction: Using by SVM and Random Forest Classifier
 
 Now that we've come to an end let's look back upon what we did in this project!
